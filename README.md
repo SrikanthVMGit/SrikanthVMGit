@@ -26,6 +26,7 @@
  <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
  <img src=https://img.shields.io/badge/AMD_Ryzen_5_5600h-red/>
  <img src=https://img.shields.io/badge/RTX_3050-green/>
+  <img src="https://img.shields.io/badge/nvidia-rtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
