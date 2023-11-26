@@ -22,10 +22,10 @@
 
 - [Will add title](will add link soon)
 <p align='center'>
-<h2> MY Workspace<h2>
+<h2> My Workspace<h2>
  <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
  <img src=https://img.shields.io/badge/AMD_Ryzen_5_5600h-red/>
- <img src=https://img.shields.io/badge/RTX_3050-green/>
+  <img src="https://img.shields.io/badge/AMD%20Rzen_5_5600h-0071C5?style=for-the-badge&logo=AMD&logoColor=red" />
   <img src="https://img.shields.io/badge/nvidia-rtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
@@ -39,9 +39,6 @@
 [youtube]: https://www.youtube.com/channel/UCArVm_7DzxMQlPjqNANmirQ
 [instagram]: https://www.instagram.com/_blood_reaper/
 [linkedin]: https://www.linkedin.com/in/srikanth-v-m-567406279/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
