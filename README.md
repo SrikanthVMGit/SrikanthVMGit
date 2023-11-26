@@ -23,6 +23,7 @@
 - [Will add title](will add link soon)
 
 <h2> MY Workspace<h2></h2>
+ <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
  <img src=https://img.shields.io/badge/AMD_Ryzen_5_5600h-red/>
 
 
