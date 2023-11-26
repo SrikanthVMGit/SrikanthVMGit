@@ -1,4 +1,4 @@
-<h1>Hi, I'm Srikanth! <br/><a href="https://github.com/SrikanthVMGit">Programmer</a>, <a href="https://www.linkedin.com/in/Srikanth V M/">STudent</a>, <a href="https://www.youtube.com/channel/UCArVm_7DzxMQlPjqNANmirQ">YouTuber</a></h1>
+<h1>Hi, I'm Srikanth! <br/><a href="https://github.com/SrikanthVMGit">Programmer</a>, <a href=https://www.linkedin.com/in/srikanth-v-m-567406279/">Student</a>, <a href="https://www.youtube.com/channel/UCArVm_7DzxMQlPjqNANmirQ">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
