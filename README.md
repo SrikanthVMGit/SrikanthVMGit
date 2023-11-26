@@ -21,16 +21,13 @@
 <h2>📺 YouTube Videos</h2>
 
 - [Will add title](will add link soon)
-
-<h2> MY Workspace<h2></h2>
+<p align='center'>
+<h2> MY Workspace<h2>
  <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
  <img src=https://img.shields.io/badge/AMD_Ryzen_5_5600h-red/>
  <img src=https://img.shields.io/badge/RTX_3050-green/>
-
-
-
-
-
+ <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
 
 <h2> 🤳 Connect with me:</h2>
 
