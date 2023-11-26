@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>NS Computers(Online Tech selling and administrating)</b>
  
 <h2>📺 YouTube Videos</h2>
 
