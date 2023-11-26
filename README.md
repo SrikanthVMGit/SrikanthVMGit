@@ -35,7 +35,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/_blood_reaper/
 [linkedin]: https://www.linkedin.com/in/srikanth-v-m-567406279/
 
 <!--
