@@ -8,7 +8,7 @@
 
 - [Will add title](will add link soon)
 <p align='center'>
-<h2> My Workspace<h2>
+<h2>💻 My Workspace<h2>
  <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
  <img src="https://img.shields.io/badge/Windows%2011-Blue?style=for-the-badge&logo=Windows&logoColor=white" />
  <img src="https://img.shields.io/badge/AMD%20Rzen_5_5600h-red?style=for-the-badge&logo=AMD&logoColor=white" />
