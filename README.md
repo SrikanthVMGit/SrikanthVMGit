@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>NS Computers(Online Tech selling and administrating)</b>
+- <b>[NS Computers(Online Tech selling and administrating)](https://github.com/SrikanthVMGit/NS-Computers)</b>
  
 <h2>📺 YouTube Videos</h2>
 
