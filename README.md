@@ -7,6 +7,7 @@
 <h2>📺 YouTube Videos</h2>
 
 - [NS Computers - Overview](https://youtu.be/nLCkIEIRkc8)
+- [NS Computers - Project Demo](https://youtu.be/23XfB9dw3TE)
 <p align='center'>
 <h2>💻 My Workspace<h2>
  <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
