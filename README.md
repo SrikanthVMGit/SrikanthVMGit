@@ -5,11 +5,7 @@
 - <b>[NS Computers(Online Tech selling and administrating)](https://github.com/SrikanthVMGit/NS_Computers)</b>
 - <b>[Tech Treasure(Online PC Build Planner)](https://github.com/SrikanthVMGit/TechTreasure)</b>
  
-<h2>📺 YouTube Videos</h2>
 
-- [NS Computers - Overview](https://youtu.be/nLCkIEIRkc8)
-- [NS Computers - Project Demo](https://youtu.be/23XfB9dw3TE)
-- [NS Computers - Login Design](https://youtu.be/1-nRVq17H7A)
 <p align='center'>
 <h2>💻 My Workspace<h2>
  <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
@@ -21,10 +17,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Srikanth | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="Srikanth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Srikanth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/channel/UCArVm_7DzxMQlPjqNANmirQ
+
 [instagram]: https://www.instagram.com/_blood_reaper/
 [linkedin]: https://www.linkedin.com/in/srikanth-v-m-567406279/
