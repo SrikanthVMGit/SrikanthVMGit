@@ -4,9 +4,10 @@
 ---
 
 ## 👨‍💻 Software Development Projects
-
-- 🔧 **[NS Computers (Online Tech Selling and Admin)](https://github.com/SrikanthVMGit/NS_Computers)**
-- 🛠 **[Tech Treasure (Online PC Build Planner)](https://github.com/SrikanthVMGit/TechTreasure)**
+-  **[NotedAF (Academic Forums)](https://github.com/SrikanthVMGit/notedAF-Academic-Forms)**
+-  **[NS Computers (Online Tech Selling and Admin)](https://github.com/SrikanthVMGit/NS_Computers)**
+-  **[Sorting Visualizer](https://github.com/SrikanthVMGit/Sorting-visualization)**
+-  **[Tech Treasure (Online PC Build Planner)](https://github.com/SrikanthVMGit/TechTreasure)**
 
 ---
 
