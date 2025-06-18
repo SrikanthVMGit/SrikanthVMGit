@@ -15,6 +15,9 @@
  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
+
+<a href="https://github.com/SrikanthVMGit"> <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrikanthVMGit&theme=tokyonight&hide_border=true"> </a> <a href="https://github.com/SrikanthVMGit"> <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrikanthVMGit&theme=tokyonight&hide_border=true"> </a> <br /> <br /> <a href="https://github.com/SrikanthVMGit"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SrikanthVMGit&theme=tokyonight&hide_border=true"> </a>
+
 <h2> 🤳 Connect with me:</h2>
 
 
