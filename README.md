@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Srikanth! 👋<br/>
 <a href="https://www.linkedin.com/in/srikanth-v-m-567406279/">Student • Developer • Tech Enthusiast</a></h1>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=A+Self+taught+Software+Developer+!!;A+Devops+Enthusiast!!;Building+real+world+projects!!;Exploring+MERN+Stack)
+
 ---
 
 ## 👨‍💻 Software Development Projects
@@ -51,3 +53,8 @@
 <a href="https://github.com/SrikanthVMGit">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SrikanthVMGit&theme=tokyonight&hide_border=true">
 </a>
+
+<br>
+<br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SrikanthVMGit&label=Profile%20views&color=0e75b6&style=flat" alt="SrikanthVMGit" /> </p>
+
