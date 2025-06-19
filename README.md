@@ -25,18 +25,33 @@
 
 ---
 
-## 🤳 Connect with Me
 
-[<img align="left" alt="Srikanth | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
-[<img align="left" alt="Srikanth | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+## 🛠️ Tech Stack & Tools
 
-<br/>
-
-[linkedin]: https://www.linkedin.com/in/srikanth-v-m-567406279/
-[instagram]: https://www.instagram.com/_blood_reaper/
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Java, Python, AWS, Docker, NodeJS, Kotlin</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>HTML5, CSS3, JavaScript, ReactJS</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>MySQL, MongoDB, Firebase</td>
+    
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git & GitHub, VS Code, Eclipse IDE</td>
+  </tr>
+</table>
 
 ---
+
+
 
 ## 📊 GitHub Stats
 
@@ -57,4 +72,19 @@
 <br>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SrikanthVMGit&label=Profile%20views&color=0e75b6&style=flat" alt="SrikanthVMGit" /> </p>
+
+
+
+## 🤳 Connect with Me
+
+[<img align="left" alt="Srikanth | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+
+[<img align="left" alt="Srikanth | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/srikanth-v-m-567406279/
+[instagram]: https://www.instagram.com/_blood_reaper/
+
+---
 
